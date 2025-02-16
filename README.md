@@ -1,1 +1,3 @@
 # Portfolio_website_images
+These are just few images that i have used in my website.... 
+I have hosted it in git so that i get an absolute URL.
